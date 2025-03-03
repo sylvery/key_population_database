@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423290987729",
+    "project_id": "kpdb-79582",
+    "storage_bucket": "kpdb-79582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423290987729:android:5edc18050f090ca7f4d1f0",
+        "android_client_info": {
+          "package_name": "com.sudotechweb.png.key_population_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnI5sZ0a0ubAJmvDV5aKmEfrsuqKQWWNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
